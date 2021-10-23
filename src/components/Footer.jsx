@@ -4,7 +4,14 @@ export default function Footer() {
             <div class="footer-copyright">
                 <div className="container">
                     © {new Date().getFullYear()} Copyright Text
-                    <a className="grey-text text-lighten-4 right" href="#!">More Links</a>
+                    <a 
+                        className="grey-text text-lighten-4 right" 
+                        href="https://github.com/kondratiev95/react-shop"
+                        target="_blank"
+                        ref="noreferrer"
+                    >
+                        Repo
+                    </a>
                 </div>
             </div>
         </footer>
