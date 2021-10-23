@@ -2,7 +2,6 @@ export default function GoodsItem(props) {
     const { 
         id, 
         name, 
-        description, 
         price, 
         icon:img,
         addToBasket = Function.prototype

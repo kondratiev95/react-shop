@@ -10,7 +10,7 @@ export default function Alert(props) {
         return () => {
             clearTimeout(timerId);
         }
-    },[name])
+    },[closeAlert])
 
     return (
         <div id="toast-container">
