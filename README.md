@@ -1,2 +1,2 @@
 # React Shop Portfolio Project
-[Demo](https://kondratiev95/github.io/react-shop).
+[Demo](https://kondratiev95.github.io/react-shop).
