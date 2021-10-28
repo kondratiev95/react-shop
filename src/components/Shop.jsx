@@ -1,4 +1,4 @@
-import { useState, useEffect, useContext } from 'react';
+import { useEffect, useContext } from 'react';
 import { API_KEY, API_URL } from '../config';
 
 import { ShopContext } from '../context';
